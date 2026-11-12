@@ -2,7 +2,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/dev-meron/dev-meron/main/assets/green-grid-header.png"
+  src="https://raw.githubusercontent.com/dev-meron/dev-meron/main/asset/greenBanner.png"
   width="100%"
   alt="Neon green futuristic developer header"
 />
