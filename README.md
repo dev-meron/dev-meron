@@ -36,11 +36,15 @@ I'm a developer passionate about solving real-world problems through technology.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dev-meron&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=8BE9C1&text_color=F0F6FC&rank_icon=github" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=dev-meron&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=8BE9C1&text_color=F0F6FC&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-meron&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=F0F6FC&dates=A3A3A3" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-meron&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=F0F6FC" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-meron&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=F0F6FC" />
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dev-meron&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
 
 </div>
 
