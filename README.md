@@ -1,14 +1,11 @@
 
-
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/dev-meron/dev-meron/main/assets/meron-green-header-banner.png"
+  src="https://raw.githubusercontent.com/dev-meron/dev-meron/main/assets/green-grid-header.png"
   width="100%"
-  alt="Meron - Green Gradient Developer Banner"
+  alt="Neon green futuristic developer header"
 />
-
-</div>
 
 <!-- INTRODUCTION -->
 <h1>
@@ -37,9 +34,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=B6F36B"/>
 </a>
 
-<a href="mailto:merijourney97@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B6F36B"/>
-</a>
 
 <br/><br/>
 
