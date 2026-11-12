@@ -6,7 +6,7 @@
 
 ### Full-Stack & App Developer
 
-*Building ideas into products, one commit at a time.*
+_Building ideas into products, one commit at a time._
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Frontend+Development;React+Native+Development;Exploring+Full-Stack+Engineering;Learning+Today%2C+Building+Tomorrow" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 I'm a developer passionate about solving real-world problems through technology. I enjoy turning ideas into meaningful applications, exploring new possibilities, and finding solutions through code.
 
-*Curiosity drives me. Purpose guides me. Consistency moves me forward.*
+_Curiosity drives me. Purpose guides me. Consistency moves me forward._
 
 ---
 
@@ -55,5 +55,19 @@ I'm a developer passionate about solving real-world problems through technology.
 ### 🌱 One day, one commit, one step closer.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39FF14,100:0D1117&height=100&section=footer" width="100%" />
+
+</div>
+
+---
+
+## 🟢 04 / Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/dev-meron/dev-meron/output/github-contribution-grid-snake.svg"
+  alt="GitHub contribution snake animation"
+  width="100%"
+/>
 
 </div>
