@@ -1,8 +1,14 @@
 
+
 <div align="center">
 
-<!-- GREEN CINEMATIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16351F,100:B6F36B&height=190&section=header&text=MERON&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Dream.%20Code.%20Build.%20Grow.&descSize=17&descAlignY=65&descColor=E5F5D0"/>
+<img
+  src="https://raw.githubusercontent.com/dev-meron/dev-meron/main/assets/meron-green-header-banner.png"
+  width="100%"
+  alt="Meron - Green Gradient Developer Banner"
+/>
+
+</div>
 
 <!-- INTRODUCTION -->
 <h1>
@@ -27,11 +33,11 @@
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=B6F36B"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/meron-ajirie-423418387/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=B6F36B"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:merijourney97@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B6F36B"/>
 </a>
 
