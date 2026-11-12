@@ -24,41 +24,11 @@ I'm a developer passionate about solving real-world problems through technology.
 
 ## 🟢 02 / Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,cpp,mysql,figma,git,github&theme=dark" />
 
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 🗄️ Database & Design
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
-</p>
-
-### ⚙️ Tools & Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</p>
+</div>
 
 ---
 
