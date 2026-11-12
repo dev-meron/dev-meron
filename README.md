@@ -8,7 +8,7 @@
 
 _Building ideas into products, one commit at a time._
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Frontend+Development;React+Native+Development;Exploring+Full-Stack+Engineering;Learning+Today%2C+Building+Tomorrow" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Frontend+Development;React+Native+Development;Exploring+Full-Stack+Engineering;" alt="Typing SVG" />
 
 </div>
 
