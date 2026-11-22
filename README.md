@@ -46,7 +46,7 @@ _Curiosity drives me. Purpose guides me. Consistency moves me forward._
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=dev-meron&theme=tokyonight&hide_border=true&timezone=Africa%2FAddis_Ababa"
+    src="https://streak-stats.demolab.com?user=dev-meron&theme=green-nur&hide_border=true&timezone=Africa%2FAddis_Ababa"
     alt="GitHub Streak Stats"
   />
 </p>
